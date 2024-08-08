@@ -1,0 +1,141 @@
+[{
+    "id": 1,
+    "title": "Darkest Hour, The",
+    "author": "Concordia Le Teve",
+    "year_written": 1965,
+    "edition": "Podkamennaya Tunguska Airport",
+    "price": 52000
+  }, {
+    "id": 2,
+    "title": "Contagion",
+    "author": "Chip Bruckent",
+    "year_written": 1994,
+    "edition": "Samuels Field",
+    "price": 72000
+  }, {
+    "id": 3,
+    "title": "Magic Mike",
+    "author": "Maxine Skiplorne",
+    "year_written": 2005,
+    "edition": "Scott AFB/Midamerica Airport",
+    "price": 56000
+  }, {
+    "id": 4,
+    "title": "Cinderfella",
+    "author": "Merrie Durbyn",
+    "year_written": 1984,
+    "edition": "Newcastle Airport",
+    "price": 99000
+  }, {
+    "id": 5,
+    "title": "Horse's Mouth, The",
+    "author": "Marti Riach",
+    "year_written": 1980,
+    "edition": "Santa Paula Airport",
+    "price": 98000
+  }, {
+    "id": 6,
+    "title": "Curse of the Golden Flower (Man cheng jin dai huang jin jia)",
+    "author": "Farlee Mankor",
+    "year_written": 2011,
+    "edition": "Capitan FAP Pedro Canga Rodriguez Airport",
+    "price": 70000
+  }, {
+    "id": 7,
+    "title": "Music Never Stopped, The",
+    "author": "Aubine Cutill",
+    "year_written": 2003,
+    "edition": "El Nouzha Airport",
+    "price": 78000
+  }, {
+    "id": 8,
+    "title": "Tasting Menu",
+    "author": "Guthry Joscelyn",
+    "year_written": 1999,
+    "edition": "Linga Linga Airport",
+    "price": 98000
+  }, {
+    "id": 9,
+    "title": "Deadtime Stories",
+    "author": "Etan Dadd",
+    "year_written": 2002,
+    "edition": "Busselton Regional Airport",
+    "price": 66000
+  }, {
+    "id": 10,
+    "title": "Wonder Woman",
+    "author": "Courtnay Strangeways",
+    "year_written": 2004,
+    "edition": "Paradise River Airport",
+    "price": 90000
+  }, {
+    "id": 11,
+    "title": "Apple, The",
+    "author": "Padget Tompkin",
+    "year_written": 2008,
+    "edition": "Kudat Airport",
+    "price": 65000
+  }, {
+    "id": 12,
+    "title": "Trainspotting",
+    "author": "Adriena Doohan",
+    "year_written": 1996,
+    "edition": "Mount Full Stop Airport",
+    "price": 96000
+  }, {
+    "id": 13,
+    "title": "Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)",
+    "author": "Else Drinkel",
+    "year_written": 1993,
+    "edition": "Tetebedi Airport",
+    "price": 77000
+  }, {
+    "id": 14,
+    "title": "Mistress America",
+    "author": "Candra Vedenichev",
+    "year_written": 2006,
+    "edition": "Port Williams Seaplane Base",
+    "price": 55000
+  }, {
+    "id": 15,
+    "title": "Rude Boy",
+    "author": "Padriac McFetrich",
+    "year_written": 2007,
+    "edition": "Martin Miguel De Guemes International Airport",
+    "price": 52000
+  }, {
+    "id": 16,
+    "title": "21",
+    "author": "Evvy O'Sharry",
+    "year_written": 2004,
+    "edition": "Washington Dulles International Airport",
+    "price": 86000
+  }, {
+    "id": 17,
+    "title": "Fear and Trembling (Stupeur et tremblements)",
+    "author": "Reagen Di Giorgio",
+    "year_written": 2008,
+    "edition": "Kahului Airport",
+    "price": 86000
+  }, {
+    "id": 18,
+    "title": "Ingeborg Holm",
+    "author": "Egon Vankov",
+    "year_written": 1987,
+    "edition": "Ghinnir Airport",
+    "price": 98000
+  }, {
+    "id": 19,
+    "title": "Bad News Bears",
+    "author": "Saundra Brisson",
+    "year_written": 1994,
+    "edition": "Crater Lake-Klamath Regional Airport",
+    "price": 84000
+  }, {
+    "id": 20,
+    "title": "Veronika Voss (Sehnsucht der Veronika Voss, Die)",
+    "author": "Faye Badrock",
+    "year_written": 1996,
+    "edition": "Ford Airport",
+    "price": 71000
+  }]
